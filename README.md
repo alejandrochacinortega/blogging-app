@@ -1,6 +1,6 @@
 # Blogging app
 
-Using react and redux
+Using react and redux and the API http://reduxblog.herokuapp.com/
 
 ###Getting Started###
 
